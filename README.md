@@ -12,6 +12,7 @@
 
 ## Screenshots
 <img src="https://github.com/pjdurden/Calculate-flutter/blob/main/calculator.gif">
+<img src="https://github.com/pjdurden/Calculate-flutter/blob/main/resized-image-Promo%20(1).jpeg">
 
 ## To build and run this project:
 
