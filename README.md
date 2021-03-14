@@ -1,5 +1,5 @@
 # Calculator made using flutter(dart)
-<img src="https://github.com/pjdurden/Calculate-flutter/blob/main/icons.png">
+<img src="https://github.com/pjdurden/Calculate-flutter/blob/main/icons.png" width="100" height="100">
 
 ## Features
 
